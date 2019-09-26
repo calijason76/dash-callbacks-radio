@@ -6,9 +6,9 @@ from dash.dependencies import Input, Output, State
 
 ########### Define your variables ######
 
-myheading1='How to use callbacks'
+myheading1='Life Is Funny That Way'
 tabtitle = 'LifeLessonsCBR'
-list_of_options=['Challenge Yourself', 'Tacos', 'Comforts', 'Your Thing']
+list_of_options=['Tacos', 'Comforts', 'Your Thing', 'Your Weird']
 list_of_images=['image1.png', 'image2.png', 'image3.jpg', 'image4.png', 'image5.png']
 sourceurl = 'https://poorlydrawnlines.com/'
 githublink = 'https://github.com/calijason76/dash-callbacks-radio'
