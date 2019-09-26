@@ -8,7 +8,7 @@ from dash.dependencies import Input, Output, State
 
 myheading1='Life Is Funny That Way'
 tabtitle = 'LifeLessonsCBR'
-list_of_options=['Tacos', 'Comforts', 'Your Thing', 'Your Weird']
+list_of_options=['Comic1', 'Comic2', 'Comic3', 'Comic4']
 list_of_images=['image1.png', 'tacos.png', 'comforts.png', 'yourthing.png', 'weird.png']
 sourceurl = 'https://poorlydrawnlines.com/'
 githublink = 'https://github.com/calijason76/dash-callbacks-radio'
