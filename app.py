@@ -7,11 +7,11 @@ from dash.dependencies import Input, Output, State
 ########### Define your variables ######
 
 myheading1='How to use callbacks'
-tabtitle = 'xkcd'
+tabtitle = 'LifeLessonsCBR'
 list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot']
-list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png']
-sourceurl = 'https://xkcd.com/'
-githublink = 'https://github.com/austinlasseter/dash-callbacks-radio'
+list_of_images=['image1.png', 'image2.png', 'image3.jpg', 'image4.png', 'image5.png']
+sourceurl = 'https://poorlydrawnlines.com/'
+githublink = 'https://github.com/calijason76/dash-callbacks-radio'
 
 
 ########## Set up the chart
